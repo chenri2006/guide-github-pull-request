@@ -25,3 +25,4 @@ Or your GitHub profile:
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
 - [Ricardo Chen](https://github.com/ricardochen)
+- [Ricardo2 Chen](https://github.com/ricardo2chen)
